@@ -1,5 +1,7 @@
 # The-Notes-App
 
+Current collaborators: Ekam, Daniel, Abrar
+
 ## Lecture Notes
 Access meticulously crafted notes that condense complex topics into easy-to-understand summaries. Our contributors are passionate about simplifying learning materials to enhance your comprehension and retention.
 
